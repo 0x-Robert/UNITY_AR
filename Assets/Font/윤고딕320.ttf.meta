@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3b1633df31aea40c5b0e2997637bacb2
+timeCreated: 1495013265
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YDIYGO320
+  fontNames:
+  - YDIYGO320
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARdog0528", "ARdog0528.csproj", "{01687628-DD2E-ACA8-90F8-8FD392603C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARdog0528.Editor", "ARdog0528.Editor.csproj", "{3C43BB83-C75F-600C-04D1-B28C49CA6280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01687628-DD2E-ACA8-90F8-8FD392603C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01687628-DD2E-ACA8-90F8-8FD392603C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01687628-DD2E-ACA8-90F8-8FD392603C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01687628-DD2E-ACA8-90F8-8FD392603C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C43BB83-C75F-600C-04D1-B28C49CA6280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C43BB83-C75F-600C-04D1-B28C49CA6280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C43BB83-C75F-600C-04D1-B28C49CA6280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C43BB83-C75F-600C-04D1-B28C49CA6280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

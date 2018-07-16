@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: a9fcc028ff314a34daaa9e6fff575702
+timeCreated: 1493983643
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_Chicken_3_001
+    100002: A_ChickenEyeL_3_001
+    100004: A_ChickenEyeR_3_001
+    100006: //RootNode
+    100008: Hair1
+    100010: Hair2
+    100012: Hair3
+    100014: Head
+    100016: Hips
+    100018: Jaw
+    100020: Jaw_Nub
+    100022: LeftArm
+    100024: LeftBeard
+    100026: LeftBeard_Nub
+    100028: LeftEye
+    100030: LeftFoot
+    100032: LeftForeArm
+    100034: LeftHand
+    100036: LeftHand_Nub
+    100038: LeftHandIndex1
+    100040: LeftHandIndex2
+    100042: LeftHandIndex3
+    100044: LeftHandIndex_Nub
+    100046: LeftHandMiddle1
+    100048: LeftHandMiddle2
+    100050: LeftHandMiddle3
+    100052: LeftHandMiddle_Nub
+    100054: LeftHandRing1
+    100056: LeftHandRing2
+    100058: LeftHandRing3
+    100060: LeftHandRing_Nub
+    100062: LeftHandThumb1
+    100064: LeftHandThumb2
+    100066: LeftHandThumb_Nub
+    100068: LeftLeg
+    100070: LeftShoulder
+    100072: LeftToeBase
+    100074: LeftUpLeg
+    100076: Neck
+    100078: Neck1
+    100080: Neck2
+    100082: Neck3
+    100084: RightArm
+    100086: RightBeard
+    100088: RightBeard_Nub
+    100090: RightEye
+    100092: RightFoot
+    100094: RightForeArm
+    100096: RightHand
+    100098: RightHand_Nub
+    100100: RightHandIndex1
+    100102: RightHandIndex2
+    100104: RightHandIndex3
+    100106: RightHandIndex_Nub
+    100108: RightHandMiddle1
+    100110: RightHandMiddle2
+    100112: RightHandMiddle3
+    100114: RightHandMiddle_Nub
+    100116: RightHandRing1
+    100118: RightHandRing2
+    100120: RightHandRing3
+    100122: RightHandRing_Nub
+    100124: RightHandThumb1
+    100126: RightHandThumb2
+    100128: RightHandThumb_Nub
+    100130: RightLeg
+    100132: RightShoulder
+    100134: RightToeBase
+    100136: RightUpLeg
+    100138: Spine
+    100140: Spine1
+    100142: Spine2
+    100144: Spine3
+    100146: Tail
+    100148: Tail1_1
+    100150: Tail1_2
+    100152: Tail1_3
+    100154: Tail1_Nub
+    100156: Tail2_1
+    100158: Tail2_2
+    100160: Tail2_3
+    100162: Tail2_Nub
+    400000: A_Chicken_3_001
+    400002: A_ChickenEyeL_3_001
+    400004: A_ChickenEyeR_3_001
+    400006: //RootNode
+    400008: Hair1
+    400010: Hair2
+    400012: Hair3
+    400014: Head
+    400016: Hips
+    400018: Jaw
+    400020: Jaw_Nub
+    400022: LeftArm
+    400024: LeftBeard
+    400026: LeftBeard_Nub
+    400028: LeftEye
+    400030: LeftFoot
+    400032: LeftForeArm
+    400034: LeftHand
+    400036: LeftHand_Nub
+    400038: LeftHandIndex1
+    400040: LeftHandIndex2
+    400042: LeftHandIndex3
+    400044: LeftHandIndex_Nub
+    400046: LeftHandMiddle1
+    400048: LeftHandMiddle2
+    400050: LeftHandMiddle3
+    400052: LeftHandMiddle_Nub
+    400054: LeftHandRing1
+    400056: LeftHandRing2
+    400058: LeftHandRing3
+    400060: LeftHandRing_Nub
+    400062: LeftHandThumb1
+    400064: LeftHandThumb2
+    400066: LeftHandThumb_Nub
+    400068: LeftLeg
+    400070: LeftShoulder
+    400072: LeftToeBase
+    400074: LeftUpLeg
+    400076: Neck
+    400078: Neck1
+    400080: Neck2
+    400082: Neck3
+    400084: RightArm
+    400086: RightBeard
+    400088: RightBeard_Nub
+    400090: RightEye
+    400092: RightFoot
+    400094: RightForeArm
+    400096: RightHand
+    400098: RightHand_Nub
+    400100: RightHandIndex1
+    400102: RightHandIndex2
+    400104: RightHandIndex3
+    400106: RightHandIndex_Nub
+    400108: RightHandMiddle1
+    400110: RightHandMiddle2
+    400112: RightHandMiddle3
+    400114: RightHandMiddle_Nub
+    400116: RightHandRing1
+    400118: RightHandRing2
+    400120: RightHandRing3
+    400122: RightHandRing_Nub
+    400124: RightHandThumb1
+    400126: RightHandThumb2
+    400128: RightHandThumb_Nub
+    400130: RightLeg
+    400132: RightShoulder
+    400134: RightToeBase
+    400136: RightUpLeg
+    400138: Spine
+    400140: Spine1
+    400142: Spine2
+    400144: Spine3
+    400146: Tail
+    400148: Tail1_1
+    400150: Tail1_2
+    400152: Tail1_3
+    400154: Tail1_Nub
+    400156: Tail2_1
+    400158: Tail2_2
+    400160: Tail2_3
+    400162: Tail2_Nub
+    2300000: A_ChickenEyeL_3_001
+    2300002: A_ChickenEyeR_3_001
+    3300000: A_ChickenEyeL_3_001
+    3300002: A_ChickenEyeR_3_001
+    4300000: A_ChickenEyeR_3_001
+    4300002: A_ChickenEyeL_3_001
+    4300004: A_Chicken_3_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: A_Chicken_3_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

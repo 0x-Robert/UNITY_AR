@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 173261656591d54439865b753cd0f140
+timeCreated: 1493983629
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_LabraDog_3_001
+    100002: A_LabraDogEyeL_3_001
+    100004: A_LabraDogEyeR_3_001
+    100006: Head
+    100008: HIps
+    100010: Jaw
+    100012: Jaw1
+    100014: Jaw_Nub
+    100016: //RootNode
+    100018: LeftArm
+    100020: LeftEar
+    100022: LeftEar01
+    100024: LeftEar_Nub
+    100026: LeftEye
+    100028: LeftFingerBase
+    100030: LeftFoot
+    100032: LeftFootIndex1
+    100034: LeftForeArm
+    100036: LeftHand
+    100038: LeftHandIndex1
+    100040: LeftLeg
+    100042: LeftShoulder
+    100044: LeftToeBase
+    100046: LeftUpLeg
+    100048: Neck
+    100050: Neck1
+    100052: Neck2
+    100054: Neck3
+    100056: Nose
+    100058: Nose_Nub
+    100060: RightArm
+    100062: RightEar
+    100064: RightEar01
+    100066: RightEar_Nub
+    100068: RightEye
+    100070: RightFingerBase
+    100072: RightFoot
+    100074: RightFootIndex1
+    100076: RightForeArm
+    100078: RightHand
+    100080: RightHandIndex1
+    100082: RightLeg
+    100084: RightShoulder
+    100086: RightToeBase
+    100088: RightUpLeg
+    100090: Spine
+    100092: Spine1
+    100094: Spine2
+    100096: Spine3
+    100098: Tai4
+    100100: Tail
+    100102: Tail1
+    100104: Tail2
+    100106: Tail3
+    100108: Tail5
+    100110: Tail_Nub
+    100112: Tongue
+    100114: Tongue1
+    100116: Tongue2
+    100118: Tongue_Nub
+    400000: A_LabraDog_3_001
+    400002: A_LabraDogEyeL_3_001
+    400004: A_LabraDogEyeR_3_001
+    400006: Head
+    400008: HIps
+    400010: Jaw
+    400012: Jaw1
+    400014: Jaw_Nub
+    400016: //RootNode
+    400018: LeftArm
+    400020: LeftEar
+    400022: LeftEar01
+    400024: LeftEar_Nub
+    400026: LeftEye
+    400028: LeftFingerBase
+    400030: LeftFoot
+    400032: LeftFootIndex1
+    400034: LeftForeArm
+    400036: LeftHand
+    400038: LeftHandIndex1
+    400040: LeftLeg
+    400042: LeftShoulder
+    400044: LeftToeBase
+    400046: LeftUpLeg
+    400048: Neck
+    400050: Neck1
+    400052: Neck2
+    400054: Neck3
+    400056: Nose
+    400058: Nose_Nub
+    400060: RightArm
+    400062: RightEar
+    400064: RightEar01
+    400066: RightEar_Nub
+    400068: RightEye
+    400070: RightFingerBase
+    400072: RightFoot
+    400074: RightFootIndex1
+    400076: RightForeArm
+    400078: RightHand
+    400080: RightHandIndex1
+    400082: RightLeg
+    400084: RightShoulder
+    400086: RightToeBase
+    400088: RightUpLeg
+    400090: Spine
+    400092: Spine1
+    400094: Spine2
+    400096: Spine3
+    400098: Tai4
+    400100: Tail
+    400102: Tail1
+    400104: Tail2
+    400106: Tail3
+    400108: Tail5
+    400110: Tail_Nub
+    400112: Tongue
+    400114: Tongue1
+    400116: Tongue2
+    400118: Tongue_Nub
+    2300000: A_LabraDogEyeL_3_001
+    2300002: A_LabraDogEyeR_3_001
+    3300000: A_LabraDogEyeL_3_001
+    3300002: A_LabraDogEyeR_3_001
+    4300000: A_LabraDog_3_001
+    4300002: A_LabraDogEyeR_3_001
+    4300004: A_LabraDogEyeL_3_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: A_LabraDog_3_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

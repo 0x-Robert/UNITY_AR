@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 72a2a3dae37d8b5478e297040b9e5b13
+timeCreated: 1492527721
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 037_Scanline
+    100002: Chest_con_
+    100004: Chest_con__1
+    100006: Chest_con__2
+    100008: Chest_con__3
+    100010: Chest_con__4
+    100012: "CINEMA_4D_\uC5D0\uB514\uD130"
+    100014: //RootNode
+    100016: FK_Neck_null
+    100018: Head_con_
+    100020: Head_null
+    100022: Hip_con_
+    100024: Hip_con__1
+    100026: Hip_con__2
+    100028: Hip_con__3
+    100030: Hip_con__4
+    100032: L_Back_Leg_con_
+    100034: L_Back_Leg_con__1
+    100036: L_Back_Leg_con__2
+    100038: L_Back_Leg_con__3
+    100040: L_Back_Leg_con__4
+    100042: L_Back_Leg_con__5
+    100044: L_Back_Leg_null
+    100046: L_Back_Leg_pole
+    100048: L_Back_Leg_pole_1
+    100050: L_Back_Leg_pole_2
+    100052: L_Back_Leg_pole_2_2
+    100054: L_Femur_00_jnt
+    100056: L_Front_Leg_con_
+    100058: L_Front_Leg_con__1
+    100060: L_Front_Leg_con__2
+    100062: L_Front_Leg_con__3
+    100064: L_Front_Leg_con__4
+    100066: L_Front_Leg_con__5
+    100068: L_Front_Leg_null
+    100070: L_Front_leg_pole
+    100072: L_Front_leg_pole_1
+    100074: L_Front_leg_pole_2
+    100076: L_Front_leg_pole_2_2
+    100078: L_Humerus_01_jnt
+    100080: L_Metacarpua_03_jnt
+    100082: L_Metacarpua_goal
+    100084: L_Metatarsus_02_jnt
+    100086: L_Metatarsus_goal
+    100088: L_Paw_04_jnt
+    100090: L_Paw_goal
+    100092: L_Paw_Tip_05_jnt
+    100094: L_Paw_Tip_goal
+    100096: L_Phalanges_03_jnt
+    100098: L_Phalanges_goal
+    100100: L_Phanges_04_jnt
+    100102: L_Phanges_goal
+    100104: L_Scapula_00_jnt
+    100106: L_Tibia_Fibula_01_jnt
+    100108: L_Unla_Radius_02_jnt
+    100110: Master_con_
+    100112: Neck_Base_con_
+    100114: Neck_FK_00_jnt
+    100116: Neck_FK_01_jnt
+    100118: Neck_FK_02_jnt
+    100120: Neck_FK_end_jnt
+    100122: Neck_Midd_con_
+    100124: Neck_Top_con_
+    100126: Quadruped_rig
+    100128: R_Back_Leg_con_
+    100130: R_Back_Leg_con__1
+    100132: R_Back_Leg_con__2
+    100134: R_Back_Leg_con__3
+    100136: R_Back_Leg_con__4
+    100138: R_Back_Leg_con__5
+    100140: R_Back_Leg_null
+    100142: R_Back_Leg_pole
+    100144: R_Back_Leg_pole_1
+    100146: R_Back_Leg_pole_2
+    100148: R_Back_Leg_pole_2_2
+    100150: R_Femur_00_jnt
+    100152: R_Front_Leg_con_
+    100154: R_Front_Leg_con__1
+    100156: R_Front_Leg_con__2
+    100158: R_Front_Leg_con__3
+    100160: R_Front_Leg_con__4
+    100162: R_Front_Leg_con__5
+    100164: R_Front_Leg_null
+    100166: R_Front_leg_pole
+    100168: R_Front_leg_pole_1
+    100170: R_Front_leg_pole_2
+    100172: R_Front_leg_pole_2_2
+    100174: R_Humerus_01_jnt
+    100176: R_Metacarpua_03_jnt
+    100178: R_Metacarpua_goal
+    100180: R_Metatarsus_02_jnt
+    100182: R_Metatarsus_goal
+    100184: R_Paw_04_jnt
+    100186: R_Paw_goal
+    100188: R_Paw_Tip_05_jnt
+    100190: R_Paw_Tip_goal
+    100192: R_Phalanges_03_jnt
+    100194: R_Phalanges_goal
+    100196: R_Phanges_04_jnt
+    100198: R_Phanges_goal
+    100200: R_Scapula_00_jnt
+    100202: R_Tibia_Fibula_01_jnt
+    100204: R_Unla_Radius_02_jnt
+    100206: Root_con_
+    100208: Root_jnt
+    100210: Skull_00_jnt
+    100212: Skull_01_jnt
+    100214: Spine_00_jnt
+    100216: Spine_01_jnt
+    100218: Spine_02_jnt
+    100220: Spine_03_jnt
+    100222: Spine_04_jnt
+    100224: Spine_05_jnt
+    100226: Spine_06_jnt
+    100228: Spine_07_jnt
+    100230: Spine_08_jnt
+    100232: Spine_null
+    100234: Tail
+    100236: Tail_00_jnt
+    100238: Tail_01_jnt
+    100240: Tail_02_jnt
+    100242: Tail_03_jnt
+    100244: Tail_04_jnt
+    100246: Tail_1_Con_
+    100248: Tail_2_Con_
+    100250: Tail_3_Con_
+    100252: Tail_4_Con_
+    100254: "\uC2A4\uD50C\uB77C\uC778"
+    100256: "\uCE90\uB9AD\uD130"
+    400000: 037_Scanline
+    400002: Chest_con_
+    400004: Chest_con__1
+    400006: Chest_con__2
+    400008: Chest_con__3
+    400010: Chest_con__4
+    400012: "CINEMA_4D_\uC5D0\uB514\uD130"
+    400014: //RootNode
+    400016: FK_Neck_null
+    400018: Head_con_
+    400020: Head_null
+    400022: Hip_con_
+    400024: Hip_con__1
+    400026: Hip_con__2
+    400028: Hip_con__3
+    400030: Hip_con__4
+    400032: L_Back_Leg_con_
+    400034: L_Back_Leg_con__1
+    400036: L_Back_Leg_con__2
+    400038: L_Back_Leg_con__3
+    400040: L_Back_Leg_con__4
+    400042: L_Back_Leg_con__5
+    400044: L_Back_Leg_null
+    400046: L_Back_Leg_pole
+    400048: L_Back_Leg_pole_1
+    400050: L_Back_Leg_pole_2
+    400052: L_Back_Leg_pole_2_2
+    400054: L_Femur_00_jnt
+    400056: L_Front_Leg_con_
+    400058: L_Front_Leg_con__1
+    400060: L_Front_Leg_con__2
+    400062: L_Front_Leg_con__3
+    400064: L_Front_Leg_con__4
+    400066: L_Front_Leg_con__5
+    400068: L_Front_Leg_null
+    400070: L_Front_leg_pole
+    400072: L_Front_leg_pole_1
+    400074: L_Front_leg_pole_2
+    400076: L_Front_leg_pole_2_2
+    400078: L_Humerus_01_jnt
+    400080: L_Metacarpua_03_jnt
+    400082: L_Metacarpua_goal
+    400084: L_Metatarsus_02_jnt
+    400086: L_Metatarsus_goal
+    400088: L_Paw_04_jnt
+    400090: L_Paw_goal
+    400092: L_Paw_Tip_05_jnt
+    400094: L_Paw_Tip_goal
+    400096: L_Phalanges_03_jnt
+    400098: L_Phalanges_goal
+    400100: L_Phanges_04_jnt
+    400102: L_Phanges_goal
+    400104: L_Scapula_00_jnt
+    400106: L_Tibia_Fibula_01_jnt
+    400108: L_Unla_Radius_02_jnt
+    400110: Master_con_
+    400112: Neck_Base_con_
+    400114: Neck_FK_00_jnt
+    400116: Neck_FK_01_jnt
+    400118: Neck_FK_02_jnt
+    400120: Neck_FK_end_jnt
+    400122: Neck_Midd_con_
+    400124: Neck_Top_con_
+    400126: Quadruped_rig
+    400128: R_Back_Leg_con_
+    400130: R_Back_Leg_con__1
+    400132: R_Back_Leg_con__2
+    400134: R_Back_Leg_con__3
+    400136: R_Back_Leg_con__4
+    400138: R_Back_Leg_con__5
+    400140: R_Back_Leg_null
+    400142: R_Back_Leg_pole
+    400144: R_Back_Leg_pole_1
+    400146: R_Back_Leg_pole_2
+    400148: R_Back_Leg_pole_2_2
+    400150: R_Femur_00_jnt
+    400152: R_Front_Leg_con_
+    400154: R_Front_Leg_con__1
+    400156: R_Front_Leg_con__2
+    400158: R_Front_Leg_con__3
+    400160: R_Front_Leg_con__4
+    400162: R_Front_Leg_con__5
+    400164: R_Front_Leg_null
+    400166: R_Front_leg_pole
+    400168: R_Front_leg_pole_1
+    400170: R_Front_leg_pole_2
+    400172: R_Front_leg_pole_2_2
+    400174: R_Humerus_01_jnt
+    400176: R_Metacarpua_03_jnt
+    400178: R_Metacarpua_goal
+    400180: R_Metatarsus_02_jnt
+    400182: R_Metatarsus_goal
+    400184: R_Paw_04_jnt
+    400186: R_Paw_goal
+    400188: R_Paw_Tip_05_jnt
+    400190: R_Paw_Tip_goal
+    400192: R_Phalanges_03_jnt
+    400194: R_Phalanges_goal
+    400196: R_Phanges_04_jnt
+    400198: R_Phanges_goal
+    400200: R_Scapula_00_jnt
+    400202: R_Tibia_Fibula_01_jnt
+    400204: R_Unla_Radius_02_jnt
+    400206: Root_con_
+    400208: Root_jnt
+    400210: Skull_00_jnt
+    400212: Skull_01_jnt
+    400214: Spine_00_jnt
+    400216: Spine_01_jnt
+    400218: Spine_02_jnt
+    400220: Spine_03_jnt
+    400222: Spine_04_jnt
+    400224: Spine_05_jnt
+    400226: Spine_06_jnt
+    400228: Spine_07_jnt
+    400230: Spine_08_jnt
+    400232: Spine_null
+    400234: Tail
+    400236: Tail_00_jnt
+    400238: Tail_01_jnt
+    400240: Tail_02_jnt
+    400242: Tail_03_jnt
+    400244: Tail_04_jnt
+    400246: Tail_1_Con_
+    400248: Tail_2_Con_
+    400250: Tail_3_Con_
+    400252: Tail_4_Con_
+    400254: "\uC2A4\uD50C\uB77C\uC778"
+    400256: "\uCE90\uB9AD\uD130"
+    4300000: 037_Scanline
+    7400000: CINEMA_4D___
+    9500000: //RootNode
+    13700000: 037_Scanline
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D___
+      takeName: CINEMA_4D___
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 037_Scanline
+        weight: 1
+      - path: "CINEMA_4D_\uC5D0\uB514\uD130"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Back_Leg_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Back_Leg_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Back_Leg_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Back_Leg_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Back_Leg_con__5"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal/L_Phalanges_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal/L_Phalanges_goal/L_Metatarsus_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Front_Leg_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Front_Leg_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Front_Leg_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Front_Leg_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Front_Leg_con__5"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal/L_Phanges_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal/L_Phanges_goal/L_Metacarpua_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Back_Leg_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Back_Leg_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Back_Leg_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Back_Leg_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Back_Leg_con__5"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal/R_Phalanges_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal/R_Phalanges_goal/R_Metatarsus_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Front_Leg_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Front_Leg_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Front_Leg_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Front_Leg_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Front_Leg_con__5"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal/R_Phanges_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal/R_Phanges_goal/R_Metacarpua_goal"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Chest_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Chest_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Chest_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Chest_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_/Head_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Hip_con__1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Hip_con__2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Hip_con__3"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Hip_con__4"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Tail_1_Con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Tail_1_Con_/Tail_2_Con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Tail_1_Con_/Tail_2_Con_/Tail_3_Con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Master_con_/Root_con_/Hip_con_/Tail_1_Con_/Tail_2_Con_/Tail_3_Con_/Tail_4_Con_"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole/L_Back_Leg_pole_1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole/L_Back_Leg_pole_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole/L_Back_Leg_pole_2_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt/L_Phalanges_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt/L_Phalanges_03_jnt/L_Paw_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole/R_Back_Leg_pole_1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole/R_Back_Leg_pole_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole/R_Back_Leg_pole_2_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt/R_Phalanges_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt/R_Phalanges_03_jnt/R_Paw_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/Skull_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/Skull_00_jnt/Skull_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole/L_Front_leg_pole_1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole/L_Front_leg_pole_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole/L_Front_leg_pole_2_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt/L_Phanges_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt/L_Phanges_04_jnt/L_Paw_Tip_05_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole/R_Front_leg_pole_1"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole/R_Front_leg_pole_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole/R_Front_leg_pole_2_2"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt/R_Phanges_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt/R_Phanges_04_jnt/R_Paw_Tip_05_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail/Tail_00_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail/Tail_00_jnt/Tail_01_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail/Tail_00_jnt/Tail_01_jnt/Tail_02_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail/Tail_00_jnt/Tail_01_jnt/Tail_02_jnt/Tail_03_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Tail/Tail_00_jnt/Tail_01_jnt/Tail_02_jnt/Tail_03_jnt/Tail_04_jnt"
+        weight: 1
+      - path: "\uCE90\uB9AD\uD130/Quadruped_rig/Root_jnt/Spine_null/\uC2A4\uD50C\uB77C\uC778"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
